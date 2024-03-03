@@ -1,14 +1,17 @@
-# Olá, eu sou o Guilherme! 😎
+# Olá, eu sou o Guilherme! 👋
 
 ## 📝 Sobre mim
 👩‍💻 Tenho 23 anos, moro em Marília/SP e sou um grande fã de programação, atualmente trabalho com foco em HelpDesk e manutenção de Hardware no Atacadão, mas sempre estou desenvolvendo sistemas para facilitar o dia a dia das equipes e pretendo migrar minha atuação para a área em breve.
 
 🧠 Estou aprendendo no momento Python Data Analytics no Bootcamp The Future Squadio | DIO
 
-📫 Entre em contato comigo através das minhas redes abaixo: <br><br>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=ffffff)](https://www.linkedin.com/in/guilherme-castanharo/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=ffffff
-)](https://www.instagram.com/iamguilhermec/)
+📫 Entre em contato comigo através das minhas redes abaixo:
+<div>
+<a href="https://www.instagram.com/iamguilhermec/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:guilhe1811@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/guilherme-castanharo/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+
 
 ## Skills:
 
