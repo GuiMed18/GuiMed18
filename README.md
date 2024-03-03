@@ -43,6 +43,6 @@ Sistema de criação de panfletos de ofertas adaptado para o Atacadão
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GuiMed18&theme=nord&border_radius=8&locale=pt_BR)](https://git.io/streak-stats)
 
-![Snake animation](https://github.com/GuiMed18/GuiMed18/blob/output/github-contribution-grid-snake.svg)
+
 
 
