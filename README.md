@@ -5,7 +5,7 @@
 
 🧠 Estou aprendendo no momento Python Data Analytics no Bootcamp The Future Squadio | DIO
 
-📫 Entre em contato comigo através das minhas redes abaixo: <br>
+📫 Entre em contato comigo através das minhas redes abaixo: <br><br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00000)](https://www.linkedin.com/in/guilherme-castanharo/)
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/GuiMed18)
 
