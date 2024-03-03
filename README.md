@@ -24,7 +24,7 @@ Por ter um grande interesse e vontade de aprender, desenvolvo sistemas para faci
 
 ## Skills que vou aprender 🕑
 
-<img alt="Selenium" height="40" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg" style="margin-right: 5px;"> <img alt="Pandas" height="40" width="40" src="https://www.svgrepo.com/show/306534/pandas.svg" style="margin-right: 5px;"><img alt="Flask" height="40" width="40" src="https://www.svgrepo.com/show/473611/flask.svg" style="margin-right: 5px;"><img alt="Django" height="40" width="40" src="https://www.svgrepo.com/show/373554/django.svg" style="margin-right: 5px;">
+<img alt="Selenium" height="40" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg" style="margin-right: 5px;" disabled> <img alt="Pandas" height="40" width="40" src="https://www.svgrepo.com/show/306534/pandas.svg" style="margin-right: 5px;"><img alt="Flask" height="40" width="40" src="https://www.svgrepo.com/show/473611/flask.svg" style="margin-right: 5px;"><img alt="Django" height="40" width="40" src="https://www.svgrepo.com/show/373554/django.svg" style="margin-right: 5px;">
 
 ## Meus projetos
 
