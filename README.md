@@ -1,9 +1,13 @@
 # Olá, eu sou o Guilherme! 😎
 
 ## 📝 Sobre mim
-Sou Assistente de Informática, atuo com a gestão do setor de T.I, suporte aos usuários e realizo updates nos sistemas internos da empresa.
+👩‍💻 Tenho 23 anos, moro em Marília/SP e sou um grande fã de programação, atualmente trabalho com foco em HelpDesk e manutenção de Hardware no Atacadão, mas sempre estou desenvolvendo sistemas para facilitar o dia a dia das equipes e pretendo migrar minha atuação para a área em breve.
 
-Gosto muito do DarkSide da programação (Backend rsrs)
+🧠 Estou aprendendo no momento Python Data Analytics no Bootcamp The Future Squadio | DIO
+
+📫 Entre em contato comigo através das minhas redes abaixo: <br>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00000)](https://www.linkedin.com/in/guilherme-castanharo/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/GuiMed18)
 
 ## Skills:
 
@@ -26,17 +30,19 @@ Sistema de criação de panfletos de ofertas adaptado para o Atacadão
 ##### Backend:
 <img alt="PHP" height="40" width="40" src="https://www.svgrepo.com/show/452088/php.svg" style="margin-right: 5px;"> <img alt="SQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="margin-right: 5px;">
 
-[![Link](https://img.shields.io/badge/Repositório-000?style=for-the-badge&logo=github)](https://github.com/GuiMed18/OfferAuto)
+<div>
+<a href="https://github.com/GuiMed18/OfferAuto">
+<img loading="lazy" height="25px" src="https://img.shields.io/badge/Repositório-000?style=for-the-badge&logo=github"/>
+</a>
+</div>
 
-## Mais informações sobre mim
-👩‍💻 Trabalho atualmente no Atacadão
 
-🧠 Estou aprendendo no momento Python Data Analytics no Bootcamp The Future Squadio | DIO
-
-📫 Entre em contato comigo através das minhas redes abaixo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=00000)](https://www.linkedin.com/in/guilherme-castanharo/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/GuiMed18)
+## Minhas estatísticas
 
 <img src="https://komarev.com/ghpvc/?username=GuiMed18&style=for-the-badge&color=brightgreen"> </a>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=GuiMed18&theme=nord&border_radius=8&locale=pt_BR)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/GuiMed18/GuiMed18/blob/output/github-contribution-grid-snake.svg)
+
+
