@@ -1,7 +1,7 @@
 # Olá, eu sou o Guilherme! 👋
 
 ## 📝 Sobre mim
-👩‍💻 Tenho 23 anos, moro em Marília/SP e sou um grande fã de programação, trabalho com HelpDesk e manutenção de Hardware no Atacadão.
+👩‍💻 Tenho 23 anos, moro em Marília/SP e sou um grande fã de programação, trabalho com Gestão de equipe, HelpDesk e manutenção de Hardware no Atacadão.
 Por ter um grande interesse e vontade de aprender, desenvolvo sistemas para facilitar o dia a dia das equipes.
 
 🧠 Estou aprendendo no momento Python Data Analytics no Bootcamp The Future Squadio | DIO
