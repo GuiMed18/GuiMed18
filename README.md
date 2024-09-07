@@ -20,10 +20,7 @@ Por ter um grande interesse e vontade de aprender, desenvolvo sistemas para faci
 <img alt="PHP" height="40" width="40" src="https://www.svgrepo.com/show/452088/php.svg" style="margin-right: 5px;">
 
 ## Skills em desenvolvimento ⚙️
-
-<img alt="Composer" height="40" width="40" src="https://www.svgrepo.com/show/376361/composer.svg" style="margin-right: 5px;">
-
- <img alt="MySQL" height="40" width="40" src="https://www.svgrepo.com/show/473731/mysql.svg" style="margin-right: 5px;">
+<img alt="Composer" height="60" width="60" src="https://www.svgrepo.com/show/376361/composer.svg" style="margin-right: 5px;"> <img alt="MySQL" height="60" width="60" src="https://www.svgrepo.com/show/473731/mysql.svg" style="margin-right: 5px;">
 
 ## Skills que vou aprender 🕑
 
