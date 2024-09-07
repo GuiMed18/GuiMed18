@@ -16,15 +16,25 @@ Por ter um grande interesse e vontade de aprender, desenvolvo sistemas para faci
 
 ## Skills:
 
-<img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right: 5px;"> <img alt="GitHub" height="40" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" style="margin-right: 5px;"> <img alt="PHP" height="40" width="40" src="https://www.svgrepo.com/show/452088/php.svg" style="margin-right: 5px;">
+<img alt="Git" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin-right: 5px;"> <img alt="GitHub" height="40" width="40" src="https://www.logo.wine/a/logo/GitHub/GitHub-Logo.wine.svg" style="margin-right: 5px;"> 
+<img alt="PHP" height="40" width="40" src="https://www.svgrepo.com/show/452088/php.svg" style="margin-right: 5px;">
 
 ## Skills em desenvolvimento ⚙️
 
-<img alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="margin-right: 5px;"> <img alt="MySQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" style="margin-right: 5px;">
+<img alt="Composer" height="40" width="40" src="https://www.svgrepo.com/show/376361/composer.svg" style="margin-right: 5px;">
+
+ <img alt="MySQL" height="40" width="40" src="https://www.svgrepo.com/show/473731/mysql.svg" style="margin-right: 5px;">
 
 ## Skills que vou aprender 🕑
 
-<img alt="Selenium" height="40" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg" style="margin-right: 5px;"> <img alt="Pandas" height="40" width="40" src="https://www.svgrepo.com/show/306534/pandas.svg" style="margin-right: 5px;"><img alt="Flask" height="40" width="40" src="https://www.svgrepo.com/show/473611/flask.svg" style="margin-right: 5px;"><img alt="Django" height="40" width="40" src="https://www.svgrepo.com/show/373554/django.svg" style="margin-right: 5px;">
+<img alt="Laravel" height="40" width="40" src="https://www.svgrepo.com/show/353985/laravel.svg" style="margin-right: 5px;"> 
+
+<!--
+<img alt="Selenium" height="40" width="40" src="https://www.svgrepo.com/show/354321/selenium.svg" style="margin-right: 5px;"> 
+<img alt="Pandas" height="40" width="40" src="https://www.svgrepo.com/show/306534/pandas.svg" style="margin-right: 5px;">
+<img alt="Flask" height="40" width="40" src="https://www.svgrepo.com/show/473611/flask.svg" style="margin-right: 5px;">
+<img alt="Django" height="40" width="40" src="https://www.svgrepo.com/show/373554/django.svg" style="margin-right: 5px;">
+-->
 
 ## Meus projetos
 
